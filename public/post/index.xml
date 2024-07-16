@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on 29的主页</title>
-    <link>/post/</link>
+    <link>https://draft.29bot.com/post/</link>
     <description>Recent content in Posts on 29的主页</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Mon, 15 Jul 2024 01:06:13 +0800</lastBuildDate>
-    <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://draft.29bot.com/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>_Template</title>
-      <link>/post/_template/</link>
+      <link>https://draft.29bot.com/post/_template/</link>
       <pubDate>Mon, 15 Jul 2024 01:06:13 +0800</pubDate>
-      <guid>/post/_template/</guid>
+      <guid>https://draft.29bot.com/post/_template/</guid>
       <description></description>
     </item>
   </channel>

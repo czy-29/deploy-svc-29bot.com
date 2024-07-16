@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/post/_template/</loc>
+    <loc>https://draft.29bot.com/post/_template/</loc>
     <lastmod>2024-07-15T01:06:13+08:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>https://draft.29bot.com/</loc>
     <lastmod>2024-07-15T01:06:13+08:00</lastmod>
   </url><url>
-    <loc>/post/</loc>
+    <loc>https://draft.29bot.com/post/</loc>
     <lastmod>2024-07-15T01:06:13+08:00</lastmod>
   </url><url>
-    <loc>/readme/</loc>
+    <loc>https://draft.29bot.com/readme/</loc>
     <lastmod>2024-07-15T00:24:10+08:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://draft.29bot.com/categories/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://draft.29bot.com/tags/</loc>
   </url>
 </urlset>
